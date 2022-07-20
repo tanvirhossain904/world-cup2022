@@ -318,6 +318,10 @@ hr {
         text-overflow: ellipsis;
     }
 
+    .links {
+        width: 80%;
+    }
+
     .btn {
         margin: auto;
     }
